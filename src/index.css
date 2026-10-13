@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* ::-webkit-scrollbar {
+  display: none;
+} */
+
+#textdata{
+   background: linear-gradient(transparent,black);
+   border-radius: 0 0 15px 15px;
+}
